@@ -1,2 +1,0 @@
-# SimpleProjects
-SimpleProjects
